@@ -1,7 +1,6 @@
-
 {
   "version": "1.0.0",
   "url": "https://github.com/chicosurco/discordpttcontroller/releases/download/v1.0.0/DiscordPTTController.exe",
-  "sha256": "REPLACE_WITH_REAL_SHA256",
-  "notes": "Initial release of Discord PTT Controller."
+  "sha256": "",
+  "notes": "Initial release"
 }
